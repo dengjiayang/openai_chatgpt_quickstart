@@ -1,4 +1,4 @@
-快速新建一个调用chatGPT的Flask工程
+快速新建一个调用chatGPT (GPT3.5 Turbo) 的Flask工程
 Quickly create a new Flask project that calls chatGPT
 
 解决依赖后，直接 flask run 即可（记得在 app.py 里填写自己的 openai key）
